@@ -1,0 +1,234 @@
+#Database version 1.1 Compiled: Tuesday 15th of June 2021 08:16:50 PM
+Gene name,Organism,Found in,Gene locus,AA mutation,Drug,Tandem repeat name,Tandem repeat sequence,Reference
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G54E ,Itraconazole,,,10.1128/AAC.47.3.1120-1124.2003
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,L98H ,Itraconazole,TR34,GAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAATCACGCGGTCCGGATGTGTGCTGAGCCGAAT,10.1128/AAC.01092-06
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,Y121F T289A ,Voriconazole,TR46,TCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTGTCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTG,10.111/j.1439-0507.2011.02099.x
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,I266N ,Itraconazole,,,10.1128/AAC.00514-12
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G54V ,Itraconazole,,,JCM.43.1.214-222.2005 
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G54R ,Voriconazole,,,JCM.43.1.214-222.2005 
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G54E ,Itraconazole,,,JCM.43.1.214-222.2005 
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G54E ,Posaconazole,,,JCM.43.1.214-222.2005 
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G138C ,Itraconazole,,,10.1128/AAC.00517-11
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,Y431C ,Itraconazole,,,10.1128/AAC.00517-11
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,M220L ,Itraconazole,,,10.1128/AAC.48.7.2747-2750.2004
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,M220V ,Itraconazole,,,10.1128/AAC.48.7.2747-2750.2004
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,M220T ,Itraconazole,,,10.1128/AAC.48.7.2747-2750.2004
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G54W ,Posaconazole,,,10.1128/AAC.47.2.577-581.2003
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,F219S ,Itraconazole,,,10.1002/ps.4301
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G138S ,Itraconazole,,,10.1002/ps.4301
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G138C ,Itraconazole,,,10.1002/ps.4301
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G138C ,Voriconazole,,,10.1002/ps.4301
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G138C ,Posaconazole,,,10.1002/ps.4301
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G54E I266N ,Itraconazole,,,10.1128/AAC.05394-11
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G54W ,Itraconazole,,,10.1128/JCM.43.1.214-222.2005
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,F46Y M172V N248T D255E ,Itraconazole,,,10.1128/AAC.01005-16
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,F46Y M172V N248T D255E ,Posaconazole,,,10.1128/AAC.01005-16
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,P216L ,Itraconazole,,,10.3201/eid1507.090043
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,P216L ,Posaconazole,,,10.3201/eid1507.090043
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,H147Y ,Itraconazole,,,10.3201/eid1507.090043
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,H147Y ,Voriconazole,,,10.3201/eid1507.090043
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G434C ,Itraconazole,,,10.3201/eid1507.090043
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G434C ,Voriconazole,,,10.3201/eid1507.090043
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G434C ,Posaconazole,,,10.3201/eid1507.090043
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,Y431C ,Voriconazole,,,10.3201/eid1507.090043
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,Y431C ,Posaconazole,,,10.3201/eid1507.090043
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,G448S ,Voriconazole,,,10.1128/JCM.00329-12
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,,Itraconazole,TR53,GAATCACGCGGTCCGATGTGTGCTGAGCCGAATGAAAGTTGTCTAATGTCTAGAATCACGCGGTCCGATGTGTGCTGAGCCGAATGAAAGTTGTCTAATGTCTA,10.1128/AAC.01083-17
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,,Voriconazole,TR53,GAATCACGCGGTCCGATGTGTGCTGAGCCGAATGAAAGTTGTCTAATGTCTAGAATCACGCGGTCCGATGTGTGCTGAGCCGAATGAAAGTTGTCTAATGTCTA,10.1128/AAC.01083-17
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,Y121F T289A G448S M172I ,Itraconazole,(TR46)x3,TCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTGTCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTGTCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTG,10.1128/mBio.00791-17
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,Y121F T289A G448S M172I ,Voriconazole,(TR46)x3,TCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTGTCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTGTCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTG,10.1128/mBio.00791-17
+CYP51a,Aspergillus fumigatus,Human,Afu4g06890,Y121F T289A G448S M172I ,Posaconazole,(TR46)x3,TCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTGTCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTGTCTAGAATCACGCGGTCCGGATGTGTGCTGAGCCGAATGAAAGTTG,10.1128/mBio.00791-17
+CYP51a,Aspergillus terreus,Human,ATEG_08156,M217I ,Itraconazole,,,10.1093/infdis/jis442
+CYP51a,Aspergillus niger,Animal - Human,ASPNIDRAFT_55947,R228Q ,Posaconazole,,,10.1128/JCM.01075-16
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,G460S ,Tebuconazole,,,10.1111/mpp.12106
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,S508T ,Tebuconazole,,,10.1111/mpp.12106
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,G460S ,Prothioconazole,,,10.1111/mpp.12106
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,S508T ,Prothioconazole,,,10.1111/mpp.12106
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,G460S ,Metconazole,,,10.1111/mpp.12106
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,S508T ,Metconazole,,,10.1111/mpp.12106
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,G460S ,Flusilazole,,,10.1111/mpp.12106
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,S508T ,Flusilazole,,,10.1111/mpp.12106
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,G460S ,Prochloraz,,,10.1111/mpp.12106
+CYP51b,Pyrenopeziza brassicae,Plant,PbCYP51b,S508T ,Prochloraz,,,10.1111/mpp.12106
+ERG11,Candida albicans,Human,C5_00660C_A,Y132F Y205E Y257H D116E K143Q ,Fluconazole,,,10.1111/1567-1364.12042
+ERG11,Candida albicans,Human,C5_00660C_A,Y132F Y205E V437I D116E K143Q ,Fluconazole,,,10.1111/1567-1364.12042
+ERG11,Candida albicans,Human,C5_00660C_A,Y132F Y205E Y257H D116E K143Q ,Itraconazole,,,10.1111/1567-1364.12042
+ERG11,Candida albicans,Human,C5_00660C_A,Y132F Y205E V437I D116E K143Q ,Itraconazole,,,10.1111/1567-1364.12042
+ERG11,Candida albicans,Human,C5_00660C_A,A114S Y205E Y257H V437I ,Itraconazole,,,10.1111/1567-1364.12042
+ERG11,Candida albicans,Human,C5_00660C_A,Y205E V437I Y132H G472R ,Itraconazole,,,10.1111/1567-1364.12042
+ERG11,Candida albicans,Human,C5_00660C_A,P49R E266D T486P V488I ,Itraconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,Y33C ,Fluconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,Y33C ,Itraconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,Y33C ,Voriconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,Y39C ,Fluconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,Y39C ,Itraconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,Y39C ,Voriconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,K119L ,Fluconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,K119L ,Itraconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,K119L ,Voriconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,T494A ,Fluconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,T494A ,Itraconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,T494A ,Voriconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,L491V ,Fluconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,L491V ,Itraconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,L491V ,Voriconazole,,,10.1016/j.ijantimicag.2005.12.005
+ERG11,Candida albicans,Human,C5_00660C_A,Y132H G450E ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,G450E G464S ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,Y132H G448V ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,S405F ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,K128T V452A ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,Y132H S405F ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,G464S ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,G464S K128T R467I ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,Y257H G464S ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,A61V Y257H G464S G307S ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,Y257H G464S G307S ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,K143R ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,Y257H Y132H E266D ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,Y132H G464S H283R ,Fluconazole,,,10.1128/AAC.48.6.2124-2131.2004
+ERG11,Candida albicans,Human,C5_00660C_A,F72L ,Fluconazole,,,10.1099/00221287-145-10-2715
+ERG11,Candida albicans,Human,C5_00660C_A,T132H ,Fluconazole,,,10.1099/00221287-145-10-2715
+ERG11,Candida albicans,Human,C5_00660C_A,F126L ,Fluconazole,,,10.1099/00221287-145-10-2715
+ERG11,Candida albicans,Human,C5_00660C_A,E266D ,Fluconazole,,,10.1099/00221287-145-10-2715
+ERG11,Candida albicans,Human,C5_00660C_A,V437I ,Fluconazole,,,10.1099/00221287-145-10-2715
+ERG11,Candida albicans,Human,C5_00660C_A,F449L ,Fluconazole,,,10.1099/00221287-145-10-2715
+ERG11,Candida albicans,Human,C5_00660C_A,K143E ,Fluconazole,,,10.1099/00221287-145-10-2715
+ERG11,Candida albicans,Human,C5_00660C_A,T229A ,Fluconazole,,,10.1099/00221287-145-10-2715
+ERG11,Candida albicans,Human,C5_00660C_A,F380S ,Fluconazole,,,10.1016/j.diagmicrobio.2004.04.009
+ERG11,Candida albicans,Human,C5_00660C_A,Y132F F145L ,Fluconazole,,,10.1016/j.diagmicrobio.2004.04.009
+ERG11,Candida albicans,Human,C5_00660C_A,Y79C T199I ,Fluconazole,,,10.1016/j.diagmicrobio.2004.04.009
+ERG11,Candida albicans,Human,C5_00660C_A,V437I I253V ,Fluconazole,,,10.1016/j.diagmicrobio.2004.04.009
+ERG11,Candida albicans,Human,C5_00660C_A,E266D V488I V130I ,Fluconazole,,,10.1016/j.diagmicrobio.2004.04.009
+ERG11,Candida albicans,Human,C5_00660C_A,K143E P503L ,Fluconazole,,,10.1016/j.diagmicrobio.2004.04.009
+ERG11,Candida albicans,Human,C5_00660C_A,A114S Y257H G487T T916C ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,M140R ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,K161N ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,R163T ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,E165K ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,D225Y ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,D225H ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,F449Y ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,I471T ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,Q474K ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,P375Q ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,R381I ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,K119N ,Fluconazole,,,10.1093/jac/dkn015
+ERG11,Candida albicans,Human,C5_00660C_A,G464S R467K ,Fluconazole,,,PMC105395
+ERG11,Candida albicans,Human,C5_00660C_A,G464S G129A ,Fluconazole,,,PMC105395
+ERG11,Histoplasma capsulatum,Human,,Y136F ,Fluconazole,,,10.1093/jac/dkl133
+ERG11,Histoplasma capsulatum,Human,,Y136F ,Voriconazole,,,10.1093/jac/dkl133
+ERG11,Candida auris,Human,,Y132F ,Fluconazole,,,10.1093/cid/ciw691
+ERG11,Candida auris,Human,,K143R ,Fluconazole,,,10.1093/cid/ciw691
+ERG11,Candida auris,Human,,F126T ,Fluconazole,,,10.1093/cid/ciw691
+ERG11,Cryptococcus neoformans,Human,CNAG_00040,G484S ,Fluconazole,,,AAC.47.11.3653-3656.2003
+ERG11,Candida tropicalis,Human,KR998018,Y132F ,Fluconazole,,,10.1128/AAC.49.11.4608-4615.2005
+tub2,Molilinia fructicola,Plant,,E198A ,Benzimidazole,,,10.1128/AEM.69.12.7145-7152.2003
+tub2,Molilinia fructicola,Plant,,H6Y ,Benzimidazole,,,10.1128/AEM.69.12.7145-7152.2003
+FKS1,Saccharomyces cerevisiae,Human,YLR342W,N470K ,Arborcandin C,,,10.1128/AAC.48.1.319–322.2004
+FKS1,Saccharomyces cerevisiae,Human,YLR342W,L642S ,Arborcandin C,,,10.1128/AAC.48.1.319–322.2004
+fks1,Aspergillus fumigatus,Human,Afu6g12400,F641S ,Micafungin,,,10.1128/AAC.01277-17
+FKS1,Candida albicans,Human,C1_02420C_A,S645P ,Caspofungin,,,10.1128/AAC.01653-05
+FKS1,Candida albicans,Human,C1_02420C_A,S645Y ,Caspofungin,,,10.1128/AAC.49.8.3264-3273.2005
+FKS1,Candida albicans,Human,C1_02420C_A,S645F ,Caspofungin,,,10.1128/AAC.49.8.3264-3273.2005
+FKS1,Candida parapsilosis,Human,FJ372618,P660A ,Micafungin,,,10.1128/AAC.00262-08
+FKS1,Candida parapsilosis,Human,FJ372618,P660A ,Caspofungin,,,10.1128/AAC.00262-08
+FKS1,Candida parapsilosis,Human,FJ372618,P660A ,Anidulafungin ,,,10.1128/AAC.00262-08
+FKS1,Candida glabrata,Human,CAGL0G01034g,D632G ,Micafungin,,,10.1128/AAC.00443-09
+FKS1,Candida glabrata,Human,CAGL0G01034g,D632G ,Caspofungin,,,10.1128/AAC.00443-09
+FKS1,Candida glabrata,Human,CAGL0G01034g,D632G ,Anidulafungin ,,,10.1128/AAC.00443-09
+FKS1,Candida glabrata,Human,CAGL0G01034g,D632E ,Micafungin,,,10.1128/AAC.00443-09
+FKS1,Candida glabrata,Human,CAGL0G01034g,D632E ,Caspofungin,,,10.1128/AAC.00443-09
+FKS1,Candida glabrata,Human,CAGL0G01034g,D632E ,Anidulafungin ,,,10.1128/AAC.00443-09
+FKS1,Candida glabrata,Human,CAGL0G01034g,D632Y ,Micafungin,,,10.1128/AAC.00443-09
+FKS1,Candida glabrata,Human,CAGL0G01034g,D632Y ,Caspofungin,,,10.1128/AAC.00443-09
+FKS1,Candida glabrata,Human,CAGL0G01034g,D632Y ,Anidulafungin ,,,10.1128/AAC.00443-09
+FKS1,Candida krusei,Human,,F655C ,Micafungin,,,10.1128/AAC.00067-07
+FKS1,Candida krusei,Human,,F655C ,Anidulafungin ,,,10.1128/AAC.00067-07
+FKS1,Candida krusei,Human,,F655C ,Caspofungin,,,10.1128/AAC.00067-07
+FKS1,Candida auris,Human,,S639P ,Micafungin,,,10.1016/j.diagmicrobio.2017.10.021
+FKS1,Candida auris,Human,,S639P ,Caspofungin,,,10.1016/j.diagmicrobio.2017.10.021
+FKS1,Candida auris,Human,,S639P ,Anidulafungin ,,,10.1016/j.diagmicrobio.2017.10.021
+FKS1,Candida auris,Human,,S639F ,Micafungin,,,10.1093/jac/dkx480
+FKS1,Candida auris,Human,,S639F ,Caspofungin,,,10.1093/jac/dkx480
+FKS1,Candida auris,Human,,S639F ,Anidulafungin ,,,10.1093/jac/dkx480
+FKS1,Saccharomyces cerevisiae,Human,AY395693,F639I ,Caspofungin,,,10.1128/AAC.49.8.3264-3273.2005
+FKS1,Saccharomyces cerevisiae,Human,AY395693,V641K ,Caspofungin,,,10.1128/AAC.49.8.3264-3273.2005
+FKS1,Saccharomyces cerevisiae,Human,AY395693,D646Y ,Caspofungin,,,10.1128/AAC.49.8.3264-3273.2005
+CYP51c,Aspergillus flavus,Human,AFLA_100590,Y319H ,Voriconazole,,,10.1128/AAC.00637-15
+CYP51c,Aspergillus flavus,Human,AFLA_100590,T788G ,Voriconazole,,,10.1128/AAC.05477-11
+MgCYP51,Mycosphaerella graminicola,Plant,,Y459C ,Cyproconazole,,,10.1111/J.1364-3703.2007.00464.X
+MgCYP51,Mycosphaerella graminicola,Plant,,Y459S ,Cyproconazole,,,10.1111/J.1364-3703.2007.00464.X
+MgCYP51,Mycosphaerella graminicola,Plant,,G460D ,Cyproconazole,,,10.1111/J.1364-3703.2007.00464.X
+MgCYP51,Mycosphaerella graminicola,Plant,,L50S V136A Y461S S524T ,Epoxiconazole,,,10.1128/AEM.00027-11
+MgCYP51,Mycosphaerella graminicola,Plant,,L50S V136A Y461S S524T ,Propiconazole,,,10.1128/AEM.00027-11
+MgCYP51,Mycosphaerella graminicola,Plant,,L50S V136A Y461S S524T ,Prothioconazole,,,10.1128/AEM.00027-11
+MgCYP51,Mycosphaerella graminicola,Plant,,L50S V136A Y461S S524T ,Prochloraz,,,10.1128/AEM.00027-11
+MgCYP51,Mycosphaerella graminicola,Plant,,L50S V136A Y461S S524T D134G ,Epoxiconazole,,,10.1128/AEM.00027-11
+MgCYP51,Mycosphaerella graminicola,Plant,,L50S V136A Y461S S524T D134G ,Propiconazole,,,10.1128/AEM.00027-11
+MfCYP51,Mycosphaerella fijiensis,Plant,,A313G Y463H ,Propiconazole,,,10.1002/ps.1770
+MfCYP51,Mycosphaerella fijiensis,Plant,,Y136F Y463D ,Propiconazole,,,10.1002/ps.1770
+MfCYP51,Mycosphaerella fijiensis,Plant,,Y461D ,Propiconazole,,,10.1002/ps.1770
+MfCYP51,Mycosphaerella fijiensis,Plant,,A313G Y463N ,Propiconazole,,,10.1002/ps.1770
+FUR1,Candida albicans,Human,C5_03390C_A,R101C ,5-flucytosine,,,10.1128/AAC.48.6.2223-2227.2004
+FUR1,Candida auris,Human,CAMJ_004922,F211I ,5-flucytosine,,,https://doi.org/10.1038/s41426-018-0045-x
+FKS2,Candida glabrata,Human,CAGL0K04037g,F659V ,Micafungin,,,10.1128/AAC.00443-09
+FKS2,Candida glabrata,Human,CAGL0K04037g,F659V ,Caspofungin,,,10.1128/AAC.00443-09
+FKS2,Candida glabrata,Human,CAGL0K04037g,F659V ,Anidulafungin ,,,10.1128/AAC.00443-09
+FKS2,Candida glabrata,Human,CAGL0K04037g,F659S ,Micafungin,,,10.1128/AAC.00443-09
+FKS2,Candida glabrata,Human,CAGL0K04037g,F659S ,Caspofungin,,,10.1128/AAC.00443-09
+FKS2,Candida glabrata,Human,CAGL0K04037g,F659S ,Anidulafungin ,,,10.1128/AAC.00443-09
+FKS2,Candida glabrata,Human,CAGL0K04037g,F659del ,Micafungin,,,10.1128/AAC.00443-09
+FKS2,Candida glabrata,Human,CAGL0K04037g,F659del ,Caspofungin,,,10.1128/AAC.00443-09
+FKS2,Candida glabrata,Human,CAGL0K04037g,F659del ,Anidulafungin ,,,10.1128/AAC.00443-09
+BcSdhB,Botrytis cinerea,Plant,AY726618,P225F ,Boscalid,,,10.1094/PHYTO-01-11-0016
+BcSdhB,Botrytis cinerea,Plant,AY726618,H272Y ,Boscalid,,,10.1094/PHYTO-01-11-0016
+BcSdhB,Botrytis cinerea,Plant,AY726618,H272R ,Boscalid,,,10.1094/PHYTO-01-11-0016
+CYP51,Zymoseptoria tritici,Plant,MYCGRDRAFT_70069,I381V ,Tebuconazole,,,10.1002/ps.1390
+CYP51,Zymoseptoria tritici,Plant,MYCGRDRAFT_70069,I381V ,Fluqionconazole,,,10.1002/ps.1390
+CYP51,Zymoseptoria tritici,Plant,MYCGRDRAFT_70069,I381V ,Triflumizole,,,10.1002/ps.1390
+CYP51,Erysiphe necator,Plant,KR106192,Y136F ,Myclobutanil,,,10.1094/PHYTO-07-14-0202-R
+CYP51,Puccinia triticina,Plant,FJ976683,Y134F ,Expoxiconazole,,,10.1016/j.cropro.2009.05.007
+CYP51,Oculimacula acuformis,Plant,AF208657,A29P ,Prochloraz,,,10.1023/A:1022584822191
+CYP51,Oculimacula acuformis,Plant,AF208657,V37A ,Prochloraz,,,10.1023/A:1022584822191
+CYP51,Oculimacula acuformis,Plant,AF208657,Q167H ,Prochloraz,,,10.1023/A:1022584822191
+CYP51,Oculimacula acuformis,Plant,AF208657,Y486H ,Prochloraz,,,10.1023/A:1022584822191
+CYP51,Oculimacula acuformis,Plant,AF208657,S505Q ,Prochloraz,,,10.1023/A:1022584822191
+CYP51,Oculimacula acuformis,Plant,AF208657,S505Q ,Triflumizole,,,10.1023/A:1022584822191
+CYP51,Oculimacula yallundae,Plant,AF276662,S505Q ,Triflumizole,,,10.1023/A:1022584822191
+CYP51,Oculimacula yallundae,Plant,AF276662,S505Q ,Prochloraz,,,10.1023/A:1022584822191
+CYP51,Oculimacula yallundae,Plant,AF276662,S35T ,Triflumizole,,,10.1023/A:1022584822191
+CYP51,Oculimacula yallundae,Plant,AF276662,Q43H ,Triflumizole,,,10.1023/A:1022584822191
+CYP51,Oculimacula yallundae,Plant,AF276662,D78Y ,Triflumizole,,,10.1023/A:1022584822191
+CYP51,Oculimacula yallundae,Plant,AF276662,E106K ,Triflumizole,,,10.1023/A:1022584822191
+CYP51,Oculimacula yallundae,Plant,AF276662,N244S ,Triflumizole,,,10.1023/A:1022584822191
+CYP51,Penicillum digitatum,Plant,DQ355161,V55A ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,Y136H ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,M144T ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,Q309H ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,K23E ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,E331A ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,I440V ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,K449R ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,G459S ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,R462H ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,F506I ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,S507P ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,K508R ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Penicillum digitatum,Plant,DQ355161,G511S ,Prochloraz,,,10.1007/s12275-014-4112-2
+CYP51,Venturia nasicola,Plant,,Y133F ,Fenarimol ,,,10.1046/j.1439-0434.2002.00776.x
+CYP51,Ustilaginoidea virens,Plant,,Y137H ,Tebuconazole,,,10.1038/srep17575
+DHPS,Pneumocytis jirovecii,Human,PNEJI1_002500,T55A ,Trimethoprim-sulfamethoxazole,,,10.1016/S0140-6736(99)03320-6
+DHPS,Pneumocytis jirovecii,Human,PNEJI1_002500,P57S ,Trimethoprim-sulfamethoxazole,,,10.1016/S0140-6736(99)03320-6
+DHPS,Pneumocytis jirovecii,Human,PNEJI1_002500,T55A P57S ,Trimethoprim-sulfamethoxazole,,,10.1016/S0140-6736(99)03320-6
+cytb,Botrytis cinerea,Plant,,G143A ,Azoxystrobin,,,10.1111/j.1365-3059.2008.01909.x
+RTA2,Candida albicans,Human,C2_06470W_A,G234S ,Fluconazole,,,10.1080/21505594.2015.1051296
+HapE,Aspergillus fumigatus,Human,Afu6g05300,P88L ,Itraconazole,,,10.1371/journal.pone.0050034
+cox10,Aspergillus fumigatus,Human,Afu4g08340,R243Q ,Itraconazole,,,10.1128/AAC.02101-16
+DHFR,Pneumocytis jirovecii,Human,PNEJI1_001080,D153V ,Pentamidine,,,10.1128/AAC.48.11.4301–4305.2004
+DHFR,Pneumocytis jirovecii,Human,PNEJI1_001080,S37T ,Trimethoprim-sulfamethoxazole,,,10.1128/AAC.48.11.4301–4305.2004
+DHFR,Pneumocytis jirovecii,Human,PNEJI1_001080,S37T ,Pyrimethamine-atovaquone,,,10.1128/AAC.48.11.4301–4305.2004
+DHFR,Pneumocytis jirovecii,Human,PNEJI1_001080,I158V V79I ,Pyrimethamine-sulfadoxine,,,10.1128/AAC.48.11.4301–4305.2004
+DHFR,Pneumocytis jirovecii,Human,PNEJI1_001080,Y197L ,Pyrimethamine-sulfadoxine,,,10.1128/AAC.48.11.4301–4305.2004
+DHFR,Pneumocytis jirovecii,Human,PNEJI1_001080,T14A P26Q ,Pyrimethamine-sulfadoxine,,,10.1128/AAC.48.11.4301–4305.2004
+DHFR,Pneumocytis jirovecii,Human,PNEJI1_001080,M52I E63G T144A K171E ,Pyrimethamine-sulfadoxine,,,10.1128/AAC.48.11.4301–4305.2004
+DHFR,Pneumocytis jirovecii,Human,PNEJI1_001080,S106P E127G R170G ,Pyrimethamine-sulfadoxine,,,10.1128/AAC.48.11.4301–4305.2004
