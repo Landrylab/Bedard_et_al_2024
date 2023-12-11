@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="144pt" version="1.1" viewBox="0 0 144 144" width="144pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-12-08T10:29:06.984688</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.4.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 144 
+L 144 144 
+L 144 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 73.8 28.368 
+C 66.372738 28.368 59.063102 30.233673 52.544349 33.793181 
+C 46.025597 37.352689 40.504205 42.493287 36.488724 48.741498 
+C 32.473242 54.989709 30.090859 62.147625 29.561004 69.555963 
+C 29.031149 76.964302 30.370605 84.38841 33.456001 91.144485 
+L 73.8 72.72 
+L 73.8 28.368 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 33.456001 91.144485 
+C 34.04078 92.424973 34.686191 93.676895 35.39004 94.895999 
+C 36.09389 96.115102 36.855381 97.300005 37.671926 98.446683 
+L 73.8 72.72 
+L 33.456001 91.144485 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 37.671926 98.446683 
+C 38.488472 99.593361 39.359147 100.700514 40.280994 101.764382 
+C 41.20284 102.82825 42.174814 103.847627 43.193614 104.819051 
+L 73.8 72.72 
+L 37.671926 98.446683 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 43.193614 104.819051 
+C 49.086921 110.438308 56.415475 114.327515 64.372302 116.058417 
+C 72.329129 117.78932 80.611051 117.295965 88.306116 114.632677 
+C 96.001181 111.96939 102.816183 107.23765 108.0007 100.958485 
+C 113.185217 94.67932 116.541701 87.091986 117.70056 79.031951 
+L 73.8 72.72 
+L 43.193614 104.819051 
+z
+" style="fill:#d62728;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 117.70056 79.031951 
+C 118.10146 76.243633 118.235802 73.423451 118.101764 70.60965 
+C 117.967727 67.79585 117.565918 65.001208 116.901788 62.263623 
+L 73.8 72.72 
+L 117.70056 79.031951 
+z
+" style="fill:#9467bd;"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 116.901788 62.263623 
+C 115.570531 56.776108 113.203474 51.592975 109.928075 46.99332 
+C 106.652676 42.393664 102.5288 38.461556 97.778506 35.408726 
+L 73.8 72.72 
+L 116.901788 62.263623 
+z
+" style="fill:#8c564b;"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 97.778506 35.408726 
+C 94.220455 33.122105 90.353546 31.356147 86.295407 30.164569 
+C 82.237267 28.972991 78.029467 28.368 73.800004 28.368 
+L 73.8 72.72 
+L 97.778506 35.408726 
+z
+" style="fill:#e377c2;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 32.757596, 49.103023)" x="32.757596" y="49.103023">No change</text>
+   </g>
+   <g id="text_2">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 51.413234, 61.092274)" x="51.413234" y="61.092274">32%</text>
+   </g>
+   <g id="text_3">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 31.549045, 99.872973)" x="31.549045" y="99.872973">Non-polar to polar</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 50.754024, 88.784974)" x="50.754024" y="88.784974">3%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 36.929093, 107.428195)" x="36.929093" y="107.428195">Non-polar to charged</text>
+   </g>
+   <g id="text_6">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 53.688596, 92.906004)" x="53.688596" y="92.906004">3%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 89.756727, 121.58332)" x="89.756727" y="121.58332">Polar to non-polar</text>
+   </g>
+   <g id="text_8">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 82.503669, 100.626981)" x="82.503669" y="100.626981">35%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 122.531941, 73.15799)" x="122.531941" y="73.15799">Polar to charged</text>
+   </g>
+   <g id="text_10">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 100.381059, 74.213165)" x="100.381059" y="74.213165">6%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 113.540883, 47.180026)" x="113.540883" y="47.180026">Charged to non-polar</text>
+   </g>
+   <g id="text_12">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 95.476845, 60.043367)" x="95.476845" y="60.043367">12%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 87.544947, 28.668401)" x="87.544947" y="28.668401">Charged to polar</text>
+   </g>
+   <g id="text_14">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 81.297244, 49.946116)" x="81.297244" y="49.946116">9%</text>
+   </g>
+  </g>
+ </g>
+</svg>
